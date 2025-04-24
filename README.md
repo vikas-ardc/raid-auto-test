@@ -44,6 +44,8 @@ Automated Test for RAiD
   
 
 npx playwright show-report
+Note: The report will have execution video if Test Passes
+The report will have screenshot of the failed element/screen if the test fails. 
 
 npx playwright test raid_info_copy.spec.ts
 npx playwright test
