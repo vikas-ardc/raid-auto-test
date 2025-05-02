@@ -1,0 +1,22 @@
+{
+    "login": {
+      "username": "auto-test",
+      "password": "tester123"
+    },
+    "raid": {
+      "name": "66f33246-82fc-41bb-9b08-"
+    },
+    "title": {
+      "text": "New Title",
+      "type": "Short",
+      "language": "fra: French"
+    },
+    "description": {
+      "text": "Sample Description",
+      "type": "Objectives",
+      "language": "deu: German"
+    },
+    "spatialCoverage": {
+      "placeName": "Sydney"
+    }
+  }
